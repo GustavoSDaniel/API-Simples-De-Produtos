@@ -1,0 +1,15 @@
+PACOTE MODELL 
+
+Ê ONDE FICA AS TABELA DO BANCO
+
+'====================================================================='
+
+PACOTE CONTROLER 
+
+É ONDE EU IDENTICO AS URL DE PESQUISA
+
+'====================================================================='
+
+PACOTE REPOSITORY (INTERFACE)
+
+É ONDE EU FAÇO A LIGAÇÃO DA TABELA COM O BANCO DE DADOS
